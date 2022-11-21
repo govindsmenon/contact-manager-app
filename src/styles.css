@@ -3,4 +3,10 @@
 
 body{
     font-family: 'Ubuntu', sans-serif !important;
+    background-color: #fcebe7 !important;
+}
+
+.contact-img{
+    width: 150px;
+    border-radius: 50%;
 }
